@@ -1,0 +1,9 @@
+git status= muestra el estado de los cambios 
+git push  origin master= sube  cambios al repositorio
+git branch trabajo_github= crea una rama
+git checkout trabajo_github=cambia de rama
+git init= inicia repositorio 
+git remote add origin https://github.com/lesliedaihana/Mochila_GomezTapiero_LeslieDaihana.git= une AL repositorio
+git remote -v=muestra si esta conectado a un repositorio
+ git add .= adiciona cambios
+ git commit -m "subir carpetas"= crea el commit
