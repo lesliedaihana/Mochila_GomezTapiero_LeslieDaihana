@@ -1,0 +1,4 @@
+MAC de mi vm
+Link encap:Ethernet  direcciónHW 08:00:27:32:70:65  
+IP de mi vm    
+      Direc. inet:10.0.2.15
